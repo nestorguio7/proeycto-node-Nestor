@@ -1,16 +1,16 @@
-## Lista de servicios
+# Lista de servicios
 
 - Listar( )
 - Guardar( )
 - Editar( )
 - Eliminar( )
 
-# Service Api
+## Service Api
 
 Servicios para la aplicación en Angular Proyecto final
 
 
-## Ejecución:
+## Correr el proyecto:
 
 ```console
 npm i
