@@ -1,20 +1,14 @@
+## Lista de servicios
+
+- Listar( )
+- Guardar( )
+- Editar( )
+- Eliminar( )
+
 # Service Api
 
 Servicios para la aplicación en Angular Proyecto final
 
-## Lista de servicios
-
-- Listar( )
-- Insertar( )
-- Actualizar( )
-- Eliminar( )
-
-BD Mongo Atlas:
-
-## Tecnología
-
-- NodeJs
-- Mongo
 
 ## Ejecución:
 
