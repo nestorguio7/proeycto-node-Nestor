@@ -5,11 +5,8 @@ Servicios para la aplicación en Angular Proyecto final
 ## Lista de servicios
 
 - Listar( )
-
 - Insertar( )
-
 - Actualizar( )
-
 - Eliminar( )
 
 BD Mongo Atlas:
