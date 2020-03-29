@@ -23,7 +23,7 @@
     "http-status-codes": "^1.4.0",
     "jwt-simple": "^0.5.6",
     "moment": "^2.24.0",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.3",
     "yenv": "^2.1.0"
